@@ -10,7 +10,7 @@ const routes = [
         component: audiobooksList
   },
   {
-        path: "/audiobooksHome",
+        path: "/",
         name: "audiobooksHome",
         component: audiobooksHome
   },
