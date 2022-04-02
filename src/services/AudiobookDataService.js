@@ -1,4 +1,4 @@
-import http from "../src/http-common";
+import http from "../http-common";
 class AudiobookDataService {
   getAll() {
     return http.get("/audiobooks");
